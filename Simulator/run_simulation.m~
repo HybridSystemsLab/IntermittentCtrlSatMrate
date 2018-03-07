@@ -1,0 +1,17 @@
+xp0=[];
+xc0=;
+x0=
+
+Out=run();
+x=Out(:,1:8);
+xplant=x(:,1:2);
+xc=x(:,3:4);
+tau1=x(:,5);
+j=Out(:,8);
+t=Out(:,7);
+%figure(1);
+
+
+
+
+
